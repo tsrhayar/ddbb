@@ -14,7 +14,8 @@
         .then(function (response) {
           let data = response.data;
           data.forEach((e) => {
-            console.log(e.productName);
+            console.log(e);
+            document.write(e.id)
           });
         })
         .catch(function (error) {

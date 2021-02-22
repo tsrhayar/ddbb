@@ -1,14 +1,8 @@
-[{"id":"1","productName":"تقديم الفواكه و الحلويات","productPrice":69,"productOldPrice":99,"productCategory":"المطبخ","productColor":"whiteBlue"},
-    {"id":"2","productName":"طنجرة من الطين الطبيعي","productPrice":79,"productOldPrice":119,"productCategory":"الطبخ","productColor":"brown"},
-    {"id":"3","productName":"مبيخرة - سيراميك","productPrice":29,"productOldPrice":39,"productCategory":"ديكور","productColor":"brown"},
-    {"id":"4","productName":"شلال من الفخار","productPrice":179,"productOldPrice":249,"productCategory":"شلالات","productColor":"pottery"},
-    {"id":"4","productName":"تقديم الفواكه و الحلويات","productPrice":159,"productOldPrice":219,"productCategory":"المطبخ","productColor":"whiteBlue"},
-    {"id":"5,2","productName":"طنجرة من الطين الطبيعي","productPrice":187,"productOldPrice":256,"productCategory":"الطبخ","productColor":"brown"},
-    {"id":"6","productName":"مبيخرة - سيراميك","productPrice":215,"productOldPrice":293,"productCategory":"ديكور","productColor":"brown"},
-    {"id":"6,8","productName":"شلال من الفخار","productPrice":243,"productOldPrice":330,"productCategory":"شلالات","productColor":"pottery"},
-    {"id":"7,6","productName":"تقديم الفواكه و الحلويات","productPrice":271,"productOldPrice":367,"productCategory":"المطبخ","productColor":"whiteBlue"},
-    {"id":"8,4","productName":"طنجرة من الطين الطبيعي","productPrice":299,"productOldPrice":404,"productCategory":"الطبخ","productColor":"brown"},
-    {"id":"9,2","productName":"مبيخرة - سيراميك","productPrice":327,"productOldPrice":441,"productCategory":"ديكور","productColor":"brown"},
-    {"id":"10","productName":"شلال من الفخار","productPrice":355,"productOldPrice":478,"productCategory":"شلالات","productColor":"pottery"},
-    {"id":"10,8","productName":"تقديم الفواكه و الحلويات","productPrice":383,"productOldPrice":515,"productCategory":"المطبخ","productColor":"whiteBlue"}]
+[{"id":1,"productName":"تقديم الفواكه و الحلويات","productPrice":69,"productOldPrice":99,"productCategory":"المطبخ","productColor":"whiteBlue"},
+    {"id":2,"productName":"طنجرة من الطين الطبيعي","productPrice":79,"productOldPrice":119,"productCategory":"الطبخ","productColor":"brown"},
+    {"id":3,"productName":"مبيخرة - سيراميك","productPrice":29,"productOldPrice":39,"productCategory":"ديكور","productColor":"brown"},
+    {"id":4,"productName":"شلال من الفخار <small>مع مضخة مائية</small>","productPrice":179,"productOldPrice":249,"productCategory":"شلالات","productColor":"pottery"},
+    {"id":5,"productName":"تقديم الفواكه و الحلويات","productPrice":69,"productOldPrice":99,"productCategory":"المطبخ","productColor":"whiteBlue"},
+    {"id":6,"productName":"طنجرة من الطين الطبيعي","productPrice":79,"productOldPrice":119,"productCategory":"الطبخ","productColor":"brown"},
+    {"id":7,"productName":"مبيخرة - سيراميك","productPrice":29,"productOldPrice":39,"productCategory":"ديكور","productColor":"brown"}]
     
